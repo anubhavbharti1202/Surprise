@@ -1,7 +1,0 @@
-{
-  "name": "Valentine Kiwi",
-  "description": "A sweet, interactive Valentine's proposal featuring a cute Kiwi bird and personalized audio messages.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
